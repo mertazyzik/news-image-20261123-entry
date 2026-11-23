@@ -126,7 +126,7 @@ def main():
                fnt(SANS_B, 13), RED)
     ly += 6
     ly = block(d, MARGIN, ly,
-               split_lines(d, "COP31 collapses as deal drops fossil fuels",
+               split_lines(d, "COP31 collapses with no deal on fossil fuels",
                            fnt(SERIF_B, 33), lead_w),
                fnt(SERIF_B, 33), INK, 2)
     ly += 6
